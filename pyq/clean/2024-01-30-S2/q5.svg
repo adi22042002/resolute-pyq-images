@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" width="320" height="260" font-family="Times New Roman, serif" font-size="20">
+<rect width="320" height="260" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<g stroke="#111" stroke-width="2" fill="none"><line x1="60" y1="40" x2="60" y2="240" /><line x1="60" y1="240" x2="290" y2="240" /><line x1="60" y1="40" x2="290" y2="240" /><line x1="60" y1="225" x2="75" y2="225" /><line x1="75" y1="225" x2="75" y2="240" /></g><g transform="rotate(41 185 135)"><rect x="160" y="105" width="44" height="34" fill="#fff" stroke="#111" stroke-width="2"/></g><text x="172" y="128" fill="#111" >M</text><g stroke="#111" stroke-width="2" fill="none"><line x1="170" y1="110" x2="130" y2="75" marker-end="url(#ar)"/><path d="M255,240 A35,35 0 0 0 263,217"/></g><text x="120" y="64" fill="#111" >10 N</text><text x="78" y="175" fill="#111" >μ<tspan font-size="13" dy="5">s</tspan> = 0.1</text><text x="222" y="232" fill="#111" >60°</text>
+</svg>
