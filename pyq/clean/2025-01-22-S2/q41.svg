@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 195" width="420" height="195" font-family="Times New Roman, serif" font-size="20">
+<rect width="420" height="195" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<g stroke="#111" stroke-width="2" fill="none"><ellipse cx="110" cy="110" rx="22" ry="64"/><ellipse cx="330" cy="110" rx="11" ry="32"/><line x1="110" y1="46" x2="330" y2="78" /><line x1="110" y1="174" x2="330" y2="142" /><line x1="30" y1="80" x2="92" y2="80" marker-end="url(#ar)"/><line x1="30" y1="110" x2="92" y2="110" marker-end="url(#ar)"/><line x1="30" y1="140" x2="92" y2="140" marker-end="url(#ar)"/><line x1="330" y1="95" x2="400" y2="95" marker-end="url(#ar)"/><line x1="330" y1="125" x2="400" y2="125" marker-end="url(#ar)"/><circle cx="118" cy="26" r="15"/><circle cx="318" cy="52" r="15"/></g><text x="112" y="33" fill="#111" font-size="18">1</text><text x="312" y="59" fill="#111" font-size="18">2</text>
+</svg>

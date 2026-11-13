@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 230" width="520" height="230" font-family="Times New Roman, serif" font-size="22" fill="none" stroke="#111" stroke-width="2">
+  <rect x="0" y="0" width="520" height="230" fill="#fff" stroke="none"/>
+  <!-- inputs -->
+  <text x="10" y="48" fill="#111" stroke="none">A</text>
+  <text x="10" y="98" fill="#111" stroke="none">B</text>
+  <line x1="32" y1="42" x2="250" y2="42"/>
+  <line x1="32" y1="92" x2="120" y2="92"/>
+  <!-- top: A AND (NOT B) -->
+  <polygon points="120,80 120,104 142,92"/><circle cx="147" cy="92" r="5"/>
+  <line x1="152" y1="92" x2="200" y2="92"/><line x1="200" y1="92" x2="200" y2="72"/><line x1="200" y1="72" x2="250" y2="72"/>
+  <path d="M250,30 H280 A27,27 0 0 1 280,84 H250 Z"/>
+  <!-- bottom: (NOT A) AND B -->
+  <circle cx="80" cy="42" r="3" fill="#111"/><line x1="80" y1="42" x2="80" y2="152"/><line x1="80" y1="152" x2="120" y2="152"/>
+  <polygon points="120,140 120,164 142,152"/><circle cx="147" cy="152" r="5"/>
+  <line x1="152" y1="152" x2="250" y2="152"/>
+  <circle cx="100" cy="92" r="3" fill="#111"/><line x1="100" y1="92" x2="100" y2="182"/><line x1="100" y1="182" x2="250" y2="182"/>
+  <path d="M250,140 H280 A27,27 0 0 1 280,194 H250 Z"/>
+  <!-- OR -->
+  <line x1="307" y1="57" x2="350" y2="57"/><line x1="350" y1="57" x2="350" y2="95"/><line x1="350" y1="95" x2="378" y2="95"/>
+  <line x1="307" y1="167" x2="350" y2="167"/><line x1="350" y1="167" x2="350" y2="129"/><line x1="350" y1="129" x2="378" y2="129"/>
+  <path d="M370,80 Q392,112 370,144 Q430,144 460,112 Q430,80 370,80 Z"/>
+  <line x1="460" y1="112" x2="490" y2="112"/>
+  <text x="494" y="119" fill="#111" stroke="none">Y</text>
+</svg>

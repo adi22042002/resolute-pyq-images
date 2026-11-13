@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 200" width="290" height="200" font-family="Times New Roman, serif" font-size="20">
+<rect width="290" height="200" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<g stroke="#111" stroke-width="2" fill="none"><line x1="50" y1="170" x2="50" y2="15"/><line x1="50" y1="170" x2="240" y2="170"/><path d="M52,20 C70,60 100,62 240,62" stroke-width="2"/><path d="M52,40 C70,85 100,90 240,90" stroke-width="2"/><path d="M52,168 C70,125 100,118 240,118" stroke-width="2"/></g><text x="244" y="66" fill="#111" font-size="15">H<tspan font-size='11' dy='3'>2</tspan></text><text x="244" y="94" fill="#111" font-size="15">I<tspan font-size='11' dy='3'>2</tspan></text><text x="244" y="122" fill="#111" font-size="15">HI</text><text x="120" y="190" fill="#111" font-size="15">Time</text><text x="30" y="140" fill="#111" font-size="14" transform="rotate(-90 30 140)">Molar conc.</text>
+</svg>

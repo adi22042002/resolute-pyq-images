@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 215" width="470" height="215" font-family="Times New Roman, serif" font-size="20">
+<rect width="470" height="215" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker><pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7a8ca8"/></pattern></defs>
+<path d="M50,50 A150,150 0 0 0 350,50 Z" fill="url(#dots)" stroke="none"/><g stroke="#111" stroke-width="2" fill="none"><path d="M50,50 A150,150 0 0 0 350,50"/><line x1="50" y1="50" x2="440" y2="50"/><line x1="200" y1="50" x2="200" y2="200" stroke-dasharray="5 4" stroke-width="1.4"/></g><circle cx="440" cy="50" r="4" fill="#111"/><ellipse cx="200" cy="194" rx="10" ry="4" fill="#c9a227" stroke="#111"/><text x="28" y="56" fill="#111" >A</text><text x="193" y="40" fill="#111" >C</text><text x="346" y="72" fill="#111" >B</text><text x="448" y="56" fill="#111" >E</text><text x="214" y="196" fill="#111" >O</text>
+</svg>

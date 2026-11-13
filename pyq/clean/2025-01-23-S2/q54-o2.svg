@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" font-family="Times New Roman, serif" font-size="20">
+<rect width="240" height="200" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+<g stroke="#111" stroke-width="2" fill="none"><line x1="60" y1="170" x2="60" y2="15" marker-end="url(#ar)"/><line x1="60" y1="170" x2="230" y2="170" marker-end="url(#ar)"/><path d="M62,30 L200,160" stroke-width="2.2"/></g><text x="120" y="192" fill="#111" font-size="15">Time →</text><text x="36" y="150" fill="#111" font-size="14" transform="rotate(-90 36 150)">Rate</text>
+</svg>
